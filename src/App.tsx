@@ -1,7 +1,8 @@
 import "./App.css";
+import SingUpForm from "./components/SingUpForm";
 
 function App() {
-  return <></>;
+  return <SingUpForm />;
 }
 
 export default App;

@@ -1,0 +1,75 @@
+.sing-up-form-container {
+  padding: 88px 24px 68px 24px;
+}
+.form-header-container {
+  color: var(--white);
+  text-align: center;
+  font-family: Poppins;
+}
+.form-header {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: -0.2916666865348816px;
+  margin-bottom: 16px;
+}
+.form-text {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0px;
+  margin-bottom: 64px;
+}
+.sing-up-form {
+  width: 100%;
+  height: 442px;
+  background-color: var(--white);
+  padding: 24px;
+  border-radius: 10px;
+  box-shadow: 0px 8px 0px 0px rgba(0, 0, 0, 0.15);
+}
+
+.sing-up-form input {
+  width: 100%;
+  height: 56px;
+  border: 1px solid var(--grey);
+  border-radius: 5px;
+  margin-bottom: 16px;
+  padding-left: 19.41px;
+}
+.sing-up-form input::placeholder {
+  color: var();
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: 0.25px;
+}
+.button {
+  width: 100%;
+  height: 56px;
+  background-color: var(--green);
+  color: var(--white);
+  text-align: center;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: 1px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0px -4px 0px 0px rgba(0, 0, 0, 0.09) inset;
+  margin-bottom: 8px;
+}
+.form-input-terms {
+  color: var(--light_purple);
+  text-align: center;
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 21px;
+}
+.form-input-terms span {
+  color: var(--salmon);
+  font-weight: 700;
+}
